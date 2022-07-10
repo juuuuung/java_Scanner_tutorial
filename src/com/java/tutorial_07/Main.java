@@ -17,7 +17,7 @@ public class Main {
 
 		System.out.println(num);
 		
-		System.out.println("Hello git World");
+		System.out.println("Hello git hello hello World");
 
 		sc.close();
 		System.out.println("== program finish ==");
