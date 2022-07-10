@@ -16,6 +16,8 @@ public class Main {
 		int num = sc.nextInt();
 
 		System.out.println(num);
+		
+		System.out.println("Hello git World");
 
 		sc.close();
 		System.out.println("== program finish ==");
